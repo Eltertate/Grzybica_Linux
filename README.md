@@ -11,6 +11,7 @@ Bug fixed:
 
 Improvements:
 1. Added command "cd .." - Now the script will move up the directories
-2.Added RAM and CPU memory bobmer
+
+2. Added RAM and CPU memory bobmer
 
 
