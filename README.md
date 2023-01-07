@@ -7,6 +7,7 @@ Original version: https://github.com/RocketPLN/grzybica
 Changes:
 
 Bug fixed:
+
 "cmatrix" does not open on some linux distributions
 
 Improvements:
