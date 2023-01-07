@@ -8,7 +8,7 @@ Changes:
 
 Bug fixed:
 
-1."cmatrix" does not open on some linux distributions
+  1."cmatrix" does not open on some linux distributions
 
 Improvements:
 1. Added command "cd .." - Now the script will move up the directories
