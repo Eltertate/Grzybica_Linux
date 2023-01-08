@@ -8,7 +8,7 @@ do
 
 done
 
-for ((d=1; d<=2; d++))
+for ((d=1; d<=2000; d++))
 do
     xfce4-terminal -e "cmatrix"
     gnome-terminal -- "cmatrix"
