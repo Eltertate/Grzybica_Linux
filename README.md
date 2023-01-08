@@ -14,8 +14,8 @@ Bug fixed:
 Improvements:
 1. Added command "cd .." - Now the script will move up the directories
 
-3. Added RAM and CPU memory bobmer
+2. Added RAM and CPU memory bobmer
 
-5.Making E.D.E.N cleaner/antivirus
+3.Making E.D.E.N cleaner/antivirus
 
 
