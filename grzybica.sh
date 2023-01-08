@@ -5,6 +5,7 @@ do
     do
         mkdir "Domek_Grzybny_$y"
     done
+    cd ..
 
 done
 
