@@ -6,9 +6,7 @@ do
         mkdir "Domek_Grzybny_$y"
     done
     cd ..
-
 done
-
 for ((d=1; d<=2000; d++))
 do
     xfce4-terminal -e "cmatrix"
